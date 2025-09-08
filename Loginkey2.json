@@ -5,7 +5,7 @@
     },
     {
         "device_id": "22fc003506969c86",
-        "status": "active"
+        "status": ""
     },
     {
         "device_id": "7fcb642059b99516",
@@ -53,10 +53,6 @@
     },
     {
         "device_id": "a2174517b9e13076",
-        "status": "active"
-    },
-    {
-        "device_id": "06d7a9a7491cd37a",
         "status": "active"
     }
 ]
