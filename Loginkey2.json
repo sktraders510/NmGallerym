@@ -2,5 +2,9 @@
     {
         "device_id": "TESTDEBUG123",
         "status": "active"
+    },
+    {
+        "device_id": "22fc003506969c86",
+        "status": "active"
     }
 ]
