@@ -2,27 +2,6 @@
     {
         "device_id": "22fc003506969c86",
         "username": "22fc003506969c86",
-        "password": "5555",
-        "expirydate": "09-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7fcb642059b99516",
-        "username": "7fcb642059b99516",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "5c2b296d69211dd0",
-        "username": "5c2b296d69211dd0",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "2ff46614d71e777a",
-        "username": "2ff46614d71e777a",
         "password": "9999",
         "expirydate": "10-09-2025",
         "Allowoffline": false
@@ -35,50 +14,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "12c134b2e596f8dc",
-        "username": "12c134b2e596f8dc",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "04c75d36874275d3",
-        "username": "04c75d36874275d3",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "758a6ba68c86d93a",
-        "username": "758a6ba68c86d93a",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "b4194d2d4f765eeb",
-        "username": "b4194d2d4f765eeb",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "e22d0a99e500843d",
-        "username": "e22d0a99e500843d",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "fe93cb2cf3bf5b28",
-        "username": "fe93cb2cf3bf5b28",
-        "password": "9999",
-        "expirydate": "10-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "bafd45db00483b28",
-        "username": "bafd45db00483b28",
+        "device_id": "a2174517b9e13076",
+        "username": "a2174517b9e13076",
         "password": "9999",
         "expirydate": "10-09-2025",
         "Allowoffline": false
