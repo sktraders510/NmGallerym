@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "device_id": "5c2b296d69211dd0",
+    "status": "active"
+  },
+  {
+    "device_id": "2ff46614d71e777a",
+    "status": "active"
+  },
+  {
+    "device_id": "127f297708d3f15f",
+    "status": "active"
+  },
+  {
+    "device_id": "12c134b2e596f8dc",
+    "status": "active"
+  },
+  {
+    "device_id": "04c75d36874275d3",
+    "status": "active"
+  },
+  {
+    "device_id": "758a6ba68c86d93a",
+    "status": "active"
+  },
+  {
+    "device_id": "b4194d2d4f765eeb",
+    "status": "active"
+  },
+  {
+    "device_id": "e22d0a99e500843d",
+    "status": "active"
+  },
+  {
+    "device_id": "fe93cb2cf3bf5b28",
+    "status": "active"
+  },
+  {
+    "device_id": "bafd45db00483b28",
+    "status": "active"
+  },
+  {
+    "device_id": "a2174517b9e13076",
+    "status": "active"
+  },
+  {
+    "device_id": "731d314d6c214b8c",
+    "status": "active"
+  },
+  {
+    "device_id": "06d7a9a7491cd37a",
+    "status": "active"
+  },
+  {
+    "device_id": "31a25434fe128319",
+    "status": "active"
+  },
+  {
+    "device_id": "b8b4dde13903a2a1",
+    "status": "active"
+  },
+  {
+    "device_id": "e4f5ad66ef8b80c0",
+    "status": "active"
+  },
+  {
+    "device_id": "deda614986a70f0d",
+    "status": "active"
+  },
+  {
+    "device_id": "b6b2215fd7242537",
+    "status": "active"
+  },
+  {
+    "device_id": "7e6dd9ecd4726b14",
+    "status": "active"
+  },
+  {
+    "device_id": "0eb72d7b55ec3a54",
+    "status": "active"
+  },
+  {
+    "device_id": "8e15923a7bc43ed7",
+    "status": "active"
+  },
+  {
+    "device_id": "dfa0c4f8e12989d4",
+    "status": "active"
+  },
+  {
+    "device_id": "e5f00a40ab1891ba",
+    "status": "active"
+  },
+  {
+    "device_id": "8aaba606d01fb4cc",
+    "status": "active"
+  },
+  {
+    "device_id": "4dede45f56b7d2ab",
+    "status": "active"
+  },
+  {
+    "device_id": "187fb6a62ccb92f5",
+    "status": "active"
+  },
+  {
+    "device_id": "cea327da8002b3c6",
+    "status": "active"
+  },
+  {
+    "device_id": "7de95042bec25fd0",
+    "status": "active"
+  },
+  {
+    "device_id": "ae2cc67df5a5b569",
+    "status": "active"
+  },
+  {
+    "device_id": "59460da507ff2b8a",
+    "status": "active"
+  },
+  {
+    "device_id": "624427172996ecef",
+    "status": "active"
+  },
+  {
+    "device_id": "141dad25e64da714",
+    "status": "active"
+  },
+  {
+    "device_id": "22fc003506969c86",
+    "status": "active"
+  }
+]
