@@ -118,5 +118,9 @@
     {
         "device_id": "cea327da8002b3c6",
         "status": "active"
+    },
+    {
+        "device_id": "7de95042bec25fd0",
+        "status": "active"
     }
 ]
