@@ -24,7 +24,7 @@
         "device_id": "12c134b2e596f8dc",
         "username": "12c134b2e596f8dc",
         "password": "9999",
-        "expirydate": "10-09-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
@@ -45,7 +45,7 @@
         "device_id": "b4194d2d4f765eeb",
         "username": "b4194d2d4f765eeb",
         "password": "9999",
-        "expirydate": "10-09-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
@@ -66,7 +66,7 @@
         "device_id": "bafd45db00483b28",
         "username": "bafd45db00483b28",
         "password": "9999",
-        "expirydate": "10-09-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
@@ -129,7 +129,7 @@
         "device_id": "7e6dd9ecd4726b14",
         "username": "7e6dd9ecd4726b14",
         "password": "9999",
-        "expirydate": "10-09-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
@@ -178,19 +178,26 @@
         "device_id": "187fb6a62ccb92f5",
         "username": "187fb6a62ccb92f5",
         "password": "9999",
-        "expirydate": "10-09-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "22fc003506969c86",
         "username": "22fc003506969c86",
         "password": "9999",
-        "expirydate": "15-09-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "7fcb642059b99516",
         "username": "7fcb642059b99516",
+        "password": "9999",
+        "expirydate": "11-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7de95042bec25fd0",
+        "username": "7de95042bec25fd0",
         "password": "9999",
         "expirydate": "11-09-2025",
         "Allowoffline": false
