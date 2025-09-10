@@ -1,6 +1,82 @@
 [
-    {
-        "device_id": "731d314d6c214b8c",
-        "status": "active"
-    }
+  {
+    "device_id": "dfa0c4f8e12989d4",
+    "status": "active"
+  },
+  {
+    "device_id": "04c75d36874275d3",
+    "status": "active"
+  },
+  {
+    "device_id": "624427172996ecef",
+    "status": "active"
+  },
+  {
+    "device_id": "e5f00a40ab1891ba",
+    "status": "active"
+  },
+  {
+    "device_id": "2ff46614d71e777a",
+    "status": "active"
+  },
+  {
+    "device_id": "7e6dd9ecd4726b14",
+    "status": "active"
+  },
+  {
+    "device_id": "ae2cc67df5a5b569",
+    "status": "active"
+  },
+  {
+    "device_id": "fe93cb2cf3bf5b28",
+    "status": "active"
+  },
+  {
+    "device_id": "127f297708d3f15f",
+    "status": "active"
+  },
+  {
+    "device_id": "deda614986a70f0d",
+    "status": "active"
+  },
+  {
+    "device_id": "b4194d2d4f765eeb",
+    "status": "active"
+  },
+  {
+    "device_id": "a2174517b9e13076",
+    "status": "active"
+  },
+  {
+    "device_id": "141dad25e64da714",
+    "status": "active"
+  },
+  {
+    "device_id": "758a6ba68c86d93a",
+    "status": "active"
+  },
+  {
+    "device_id": "12c134b2e596f8dc",
+    "status": "active"
+  },
+  {
+    "device_id": "6d5e5d70bc7c2d3e",
+    "status": "active"
+  },
+  {
+    "device_id": "e22d0a99e500843d",
+    "status": "active"
+  },
+  {
+    "device_id": "187fb6a62ccb92f5",
+    "status": "active"
+  },
+  {
+    "device_id": "f91f404e339668fc",
+    "status": "active"
+  },
+  {
+    "device_id": "731d314d6c214b8c",
+    "status": "active"
+  }
 ]
