@@ -45,7 +45,7 @@
         "device_id": "ae2cc67df5a5b569",
         "username": "ae2cc67df5a5b569",
         "password": "9999",
-        "expirydate": "12-10-2025",
+        "expirydate": "12-09-2025",
         "Allowoffline": false
     },
     {
@@ -233,6 +233,13 @@
     {
         "device_id": "84cf4dc0d159087e",
         "username": "84cf4dc0d159087e",
+        "password": "9999",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "07509478d9a2f1a3",
+        "username": "07509478d9a2f1a3",
         "password": "9999",
         "expirydate": "14-09-2025",
         "Allowoffline": false
