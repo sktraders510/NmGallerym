@@ -257,5 +257,12 @@
         "password": "9999",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "752085446ed94f36",
+        "username": "752085446ed94f36",
+        "password": "9999",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
