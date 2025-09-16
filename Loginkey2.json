@@ -166,5 +166,9 @@
     {
         "device_id": "54ccadbc9f724a1b",
         "status": "active"
+    },
+    {
+        "device_id": "a4d0df929dbe5a2c",
+        "status": "active"
     }
 ]
