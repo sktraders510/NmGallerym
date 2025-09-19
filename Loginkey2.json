@@ -230,5 +230,9 @@
     {
         "device_id": "86d3c8b7638a4789",
         "status": "blocked"
+    },
+    {
+        "device_id": "0a99deff25d8edaf",
+        "status": "active"
     }
 ]
